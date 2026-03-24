@@ -33,3 +33,35 @@ Authentication failed.
 
 ### 500 Server Error
 The issue is on the server side.
+## API Troubleshooting Scenario 1
+
+### Issue
+Customer data not loading in application.
+
+### Possible Cause
+Incorrect API endpoint or missing request data.
+
+### Support Action
+Verify request format and endpoint path.
+
+## API Troubleshooting Scenario 2
+
+### Issue
+User receives authentication error.
+
+### Possible Cause
+Expired or invalid API token.
+
+### Support Action
+Check authentication credentials and token validity.
+
+## API Troubleshooting Scenario 3
+
+### Issue
+Application returns server error.
+
+### Possible Cause
+Internal server issue or unavailable service.
+
+### Support Action
+Review error response and escalate if required.
